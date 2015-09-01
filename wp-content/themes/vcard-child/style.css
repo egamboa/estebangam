@@ -1,0 +1,16 @@
+/*
+ Theme Name:     Vcard Child Theme
+ Theme URI:      http://vergatheme.com/demosd/vcard
+ Description:    vcard Child Theme
+ Author:         Verga Themes
+ Author URI:     http://vergatheme.com
+ Template:       vcard
+ Version:        1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  vcard-child
+*/
+ 
+@import url("../vcard/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */

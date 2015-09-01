@@ -1,0 +1,22 @@
+/*
+    Theme Name: Rival Theme
+    Theme URI: http://vergatheme.com/demosd/rival
+    Author: Verga Theme
+    Author URI: http://vergatheme.com
+    Release Date: 20 May 2014
+    Requirements: WordPress 3.0 or higher, PHP 5
+    Compatibility: WordPress 3.9.1
+    Tags: web app
+    Last Update Date: 20 May 2014
+*/
+
+/**** Changelog ****/
+
+"Please backup your theme pack files at first before you update the theme into the latest version"
+
+2014.05.20 - version 1.0.1
+add more : logo text, style css - theme option.
+files edit: functions.options.php, functions.php, header.php, header-home.php
+
+2014.05.20 - version 1.0.0
+- First release.

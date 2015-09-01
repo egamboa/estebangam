@@ -1,0 +1,48 @@
+.aboutContent, .det, .widget >p, .skills .titleSmall, .pList li, .postDetails, .cForm label, .cForm input, .cForm textarea, .postContent, .postContent p, .sidebar, .searchForm input[type="text"], .comments h2, .respond h2, .comment, .comment-respond, .replyForm textarea, .replyForm input{
+    text-align:right !important;
+}
+.skillsList li h4{
+    float:right;
+    text-align:right;
+}
+.pList li i{
+    float:right;
+    margin-right:0;
+    margin-left:5px;
+}
+.blogLatest .postMedia, .postDetails,.getCv, .blogFull .eleven.columns, .blogSingle .eleven.columns, .tagsSingle h4, .comments .img{
+    float:right !important;
+}
+.cForm label{
+    margin-right: 20px;
+}
+.cForm input, .cForm textarea{
+padding-right: 10px;
+}
+.searchForm .submitSearch{
+    left:14px!important;
+}
+.tagsListSingle{
+    padding-left:0;
+    padding-right:20px;
+    float:left;
+}
+.commentContent{
+    margin-left:0;
+    margin-right:50px;
+}
+.aboutContent{
+    margin-right: 57%!important;
+    margin-left:0;
+}
+.imgAbout{
+    right:0!important;
+    left:50%;
+}
+ul.children{
+    margin-right: 40px;
+    margin-left: 0;
+}
+.comments .reply-btn{
+    float:left;
+}
