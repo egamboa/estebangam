@@ -29,7 +29,7 @@
 						<?php if($theme_option['linkedin']!=''){ ?>
 						<li><a href="<?php echo $theme_option['linkedin']; ?>"><i class="icon-linkedin"></i></a></li>
 						<?php } ?>
-						<?php if($theme_option['dribbble']!=''){ ?>
+						<!--<?php if($theme_option['dribbble']!=''){ ?>
 						<li><a href="<?php echo $theme_option['dribbble']; ?>"><i class="icon-dribbble"></i></a></li>
 						<?php } ?>
 						<?php if($theme_option['pinterest']!=''){ ?>
@@ -40,7 +40,7 @@
 						<?php } ?>
 						<?php if($theme_option['vimeo']!=''){ ?>
 						<li><a href="<?php echo $theme_option['vimeo']; ?>"><i class="icon-vimeo"></i></a></li>
-						<?php } ?>						
+						<?php } ?>-->						
 					</ul>
 				</div>
 
