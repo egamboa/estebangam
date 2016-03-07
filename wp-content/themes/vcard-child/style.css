@@ -14,3 +14,15 @@
  
 /* =Theme customization starts here
 ------------------------------------------------------- */
+
+#mainNav .main-logo{
+	display: block;
+	background: url('/estebangam/pixel-assets/myLogo.jpg') no-repeat 0 0 transparent;
+	background-size: cover;
+	width: 68px;
+	height: 68px;
+	float: left;
+	position: absolute;
+	top: 0px;
+	text-indent: -999999px;
+}
